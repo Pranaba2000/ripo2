@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is FA81-E6D3
+
+ Directory of C:\Users\DELL\OneDrive\Desktop\gitfolder
+
+14-04-2023  09:42    <DIR>          .
+14-04-2023  07:21    <DIR>          ..
+14-04-2023  08:20                21 index.html
+14-04-2023  07:57               346 test.txt
+14-04-2023  09:44                 0 test2.txt
+               3 File(s)            367 bytes
+               2 Dir(s)  73,201,803,264 bytes free
